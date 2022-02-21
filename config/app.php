@@ -10,6 +10,6 @@ $link = new mysqli($host, $user, $password, $db);
 
 
 $SERVER_HOST = "http://localhost/SPK-Penerimaan-Bantuan-Electre-Fitri/";
-$SERVER_API = "";
+$SERVER_API = "http://localhost/SPK-Penerimaan-Bantuan-Electre-Fitri/api";
 
 ?>
